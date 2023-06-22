@@ -4,7 +4,7 @@ Welcome to my GitHub profile. Grab a cup of ☕ and explore my code-filled unive
 
 ## About Me
 
-- 😎 Cyber Security enthusiast, aspiring to protect the digital realm.
+- 😎 Cyber Security advocate, dedicated to safeguarding the digital landscape
 - 💻 Full-stack explorer, diving into the depths of code.
 - 🌍 A global citizen with a passion for learning and collaboration.
 - 🏉 Rugby enthusiast, tackling challenges on and off the field.
