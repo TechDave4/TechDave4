@@ -4,10 +4,10 @@ Welcome to my GitHub profile. Grab a cup of ☕ and explore my code-filled unive
 
 ## About Me
 
-- 😎 Cyber Security advocate, dedicated to safeguarding the digital landscape
+- 😎 Cyber Security and Fintech enthusiast, dedicated to safeguarding the digital landscape
 - 💻 Full-stack explorer, diving into the depths of code.
 - 🌍 A global citizen with a passion for learning and collaboration.
-- 🏉 Rugby enthusiast, tackling challenges on and off the field.
+- 🏉 Rugby aficionado, tackling challenges on and off the field.
 
 
 ## Tech Stack
@@ -28,7 +28,7 @@ Here are a few projects that I've worked on:
 ## Let's Connect!
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/david-olowofoyeku-501698250/).
-- 🐦 Connect with me on [Twitter](Twitter_Profile_Link).
+- 🐦 Connect with me on [Twitter](Twitter_Profile_Link) (Coming soon =) ).
 
 ## Fun Fact
 
