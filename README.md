@@ -27,7 +27,7 @@ Here are a few projects that I've worked on:
 
 ## Let's Connect!
 
-- 📫 Reach me on [LinkedIn]([LinkedIn_Profile_Link](https://www.linkedin.com/in/david-olowofoyeku-501698250/)).
+- 📫 Reach me on [LinkedIn](LinkedIn_Profile_Link](https://www.linkedin.com/in/david-olowofoyeku-501698250/).
 - 🐦 Connect with me on [Twitter](Twitter_Profile_Link).
 
 ## Fun Fact
