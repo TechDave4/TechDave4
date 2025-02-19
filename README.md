@@ -1,4 +1,4 @@
-# Hi there, I'm TechDave4 aka David! 👋
+# Hi there, David here! 👋
 
 Welcome to my GitHub profile. Grab a cup of ☕ and explore my code-filled universe. 🚀
 
