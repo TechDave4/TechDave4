@@ -32,5 +32,3 @@ Here are a few projects that I've worked on:
 ## Fun Fact
 
 Did you know that I hold the record for scoring the most number of tries in my rugby team? 🏉
-
-## Happy Coding! 😄
