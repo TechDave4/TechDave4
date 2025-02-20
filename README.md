@@ -21,9 +21,7 @@ Here are a few projects that I've worked on:
 
 - 🌟 **XSS Exploiter with Playwright**: Automating the exploitation of XSS vulnerabilities in web applications using Playwright.
 
-- 🕵️‍♂️ **Keylogger**: A Python-based keylogger that captures and logs key presses in real-time.
-
-- 💰 **Financial Calculator**: A handy code snippet to calculate investment or bond-related values based on user input.
+- 🔐 **Azure Sentinel Security Monitoring**: Used a **PowerShell script** to extract failed RDP logins, mapped attacker locations with **GeoIP data**, and visualised attacks in **Azure Sentinel**.  
 
 ## Let's Connect!
 
