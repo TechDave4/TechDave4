@@ -4,6 +4,11 @@ Welcome to my GitHub profile. Grab a cup of ☕ and explore my code-filled unive
 
 ## About Me
 
+As a dedicated cybersecurity enthusiast with a strong foundation in ethical hacking, vulnerability assessment, and incident response, I am passionate about safeguarding digital assets and mitigating security risks. My hands-on experience with tools like Azure Sentinel, Nmap, and Wireshark, combined with my problem-solving mindset, enables me to proactively detect, analyse, and respond to cyber threats.
+
+I am actively enhancing my cybersecurity skills through **TryHackMe**, where I tackle real-world security challenges and stay updated on the latest threats and techniques. I value continuous learning and teamwork, leveraging my technical skills to enhance organisational security and resilience in an ever-evolving threat landscape.  
+
+
 - 😎 Cyber Security and Fintech enthusiast, dedicated to safeguarding the digital landscape
 - 💻 Full-stack explorer, diving into the depths of code.
 - 🌍 A global citizen with a passion for learning and collaboration.
