@@ -1,4 +1,4 @@
-# Hi there, David here! 👋
+# Hi ! 👋
 
 Welcome to my GitHub profile. Grab a cup of ☕ and explore my code-filled universe. 🚀
 
