@@ -42,7 +42,9 @@ This GitHub documents my labs and projects as I grow into roles spanning IT supp
 ---
 
 ## 🌱 Currently Learning  
-- Troubleshooting Microsoft 365 & Google Workspace  
-- Firewall configuration & backup solutions  
-- Advanced networking protocols (routing, security)  
-- Linux administration and shell scripting  
+- Troubleshooting Microsoft 365 & Google Workspace environments  
+- Firewall configuration, backup, and disaster recovery solutions  
+- Networking protocols (TCP/IP, DNS, DHCP) for infrastructure and security  
+- Linux administration, shell scripting, and log analysis for automation & incident detection  
+
+ 
